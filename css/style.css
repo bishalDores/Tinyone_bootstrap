@@ -1,0 +1,92 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+    color: #010101;
+}
+.header{
+    background-color: #fcdb00;
+}
+.custom_nav{}
+.custom_nav ul li a{
+    padding: 10px 30px !important;
+    font-weight: bold;
+    font-size: 22px;
+    color: black !important;
+}
+.banner{
+    background-color: #fcdb00;
+    padding-top: 30px;
+    padding-bottom: 100px;
+}
+.banner_content{
+    margin-top: 73px;
+}
+.banner_content h1{
+    font-size: 32px;
+}
+.banner_content h6{
+    font-size: 20px;
+}
+.banner_content p{
+    font-size: 16px;
+}
+
+.custom_icon i{
+    color: #010101;
+    font-size: 42px;
+    padding-right: 20px;
+}
+.common_margin{
+    margin-top: 120px;
+}
+
+.icon i{
+    font-size: 30px;
+    
+}
+.icon-text h1{
+    font-weight:300px;
+    font-size: 22px;
+    color: #010101;
+}
+.icon-text p{
+    font-size: 16px;
+    color: black;
+}
+.icon-text{
+    
+}
+.custom_feature{
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+.footer{
+    background-color: #010101;
+    min-height: 766px;
+}
+.footer-title h1{
+    color: #fcdb00;
+    font-size: 32px;
+}
+.footer-title p{
+    font-size: 20px;
+    color: #898989;
+}
+.custom-btn{
+    background-color: #fcdb00;
+    font-weight: bold;
+    font-size: 16px;
+}
+.media-icons i{
+    margin-top: 75px;
+    border: 1px solid #fcdb00;
+    background-color: #fcdb00;
+    font-size: 42px;
+    padding-right: 20px;
+    border-radius: 10px;
+    width: 38px;
+    margin-right: 20px;
+}
+.single-footer-menu p{
+    font-size: 16px;
+    color: white;
+}
